@@ -1,0 +1,20 @@
+{
+  "name": "sanyi-manhua-review",
+  "interface": {
+    "displayName": "三义漫剧 · 评审线"
+  },
+  "plugins": [
+    {
+      "name": "sanyi-manhua-review",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

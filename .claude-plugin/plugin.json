@@ -1,0 +1,8 @@
+{
+  "name": "sanyi-manhua-review",
+  "description": "漫剧/短剧剧本评审规则 V2.3：100 分模型 + 前 10 集开场与集尾审计 + 剧本质量取证，只做评分、不做写作",
+  "version": "2.3.0",
+  "author": {
+    "name": "三义漫剧团队"
+  }
+}
